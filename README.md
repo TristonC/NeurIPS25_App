@@ -17,7 +17,9 @@ Available on the iOS App Store (link coming soon)
 ## Support
 
 ### Contact
+
 For support, questions, or feedback:
+
 - **Email**: [triston.cao@gmail.com]
 - **Issues**: Use the [Issues](https://github.com/tristonc/NeurIPS25_App/issues) tab above
 
@@ -38,6 +40,7 @@ A: Yes, completely free with no ads or in-app purchases.
 ### Report Issues
 
 Found a bug or have a feature request?
+
 1. Go to [Issues](https://github.com/tristonc/NeurIPS25_App/issues)
 2. Click "New Issue"
 3. Describe the problem or suggestion
@@ -46,7 +49,7 @@ Found a bug or have a feature request?
 
 All data is stored locally on your device. No data is collected or transmitted to external servers.
 
-[Privacy Policy](https://github.com/tristonc/NeurIPS25_App/blob/main/PRIVACY.md)
+[Privacy Policy](https://github.com/tristonc/NeurIPS25_App/blob/main/privacy-policy.md)
 
 ## About
 
